@@ -1,0 +1,5 @@
+demo_jobs_1: 
+  script: 
+    - cat
+  tags: 
+    - ci
